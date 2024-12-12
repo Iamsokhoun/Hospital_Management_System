@@ -30,10 +30,12 @@ It also integrates billing and payment feature and provide and interactive dashb
 # Usage
 
 1. Login: Access the system using valid credentials.
-2. Navigation:
+   - UserName: admin
+   - Password: 123
+3. Navigation:
    - Use the `TabControl` to switch between different management modules.
    - Add, Search, Sort, update, or delete records as needed.
-3. Reports: View system statistics via the dashboard in the main user control.
+4. Reports: View system statistics via the dashboard in the main user control.
 
 ## License
 
@@ -41,5 +43,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For inquiries or support, please reach out to `Iamsokhoun` or email us at [sokhoun520@gmail.com](sokhoun520@gmail.com).
+For inquiries or support, please reach out to `Iamsokhoun` or email us at 'sokhoun520@gmail.com'.
 
