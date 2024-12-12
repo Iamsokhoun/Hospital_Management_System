@@ -37,9 +37,9 @@ It also integrates billing and payment feature and provide and interactive dashb
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For inquiries or support, please reach out to `Iamsokhoun` or email us at `sokhoun520@gmail.com `.
+For inquiries or support, please reach out to `Iamsokhoun` or email us at [sokhoun520@gmail.com](sokhoun520@gmail.com).
 
