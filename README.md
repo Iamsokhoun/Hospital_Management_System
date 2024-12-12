@@ -43,5 +43,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For inquiries or support, please reach out to `Iamsokhoun` or email us at 'sokhoun520@gmail.com'.
+For inquiries or support, please reach out to `Iamsokhoun` or email us at sokhoun520@gmail.com .
 
