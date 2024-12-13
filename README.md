@@ -23,7 +23,7 @@ It also integrates billing and payment feature and provide and interactive dashb
 
 1. Clone the repository:
 2. Open the solution file in Visual Studio.
-3. Configure the database connection string in the app configuration file.
+3. Create a new database name Hospital
 4. Run the SQL scripts provided in the [DatabaseScripts](DatabaseScripts) folder to set up the database.
 5. Build and run the project.
 
